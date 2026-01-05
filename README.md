@@ -132,8 +132,9 @@ This project addresses these challenges by providing an **offline-capable, intel
 
 ## 👨‍💻 Author
 **Lokesh**  
-B.Tech – Artificial Intelligence & Data Science  
-Aspiring AI Researcher | Healthcare Technology Enthusiast  
+B.Tech – Artificial Intelligence & Machine Learning
+
+
 
 ---
 
